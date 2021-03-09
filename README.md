@@ -46,5 +46,5 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/wakatime?username=q8977452d&theme=material-palenight" alt="RaySin's github stats" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api/wakatime?username=q8977452d&theme=material-palenight"/>
 </a>
