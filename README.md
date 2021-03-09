@@ -42,7 +42,7 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&langsCount=10&hide=jupyter%20notebook,css,html&layout=compact" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&hide=jupyter%20notebook,css,html&layout=compact" />
 </a>
 
 <!--
