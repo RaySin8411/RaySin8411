@@ -38,15 +38,15 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q8977452&show_icons=true&include_all_commits=true&theme=material-palenight" alt="RaySin's github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q8977452&show_icons=true&include_all_commits=true" alt="RaySin's github stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&hide=jupyter%20notebook,css,html&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&hide=jupyter%20notebook,css,html&layout=compact" />
 </a>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=q8977452d&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=q8977452" />
 </a>
 -->
