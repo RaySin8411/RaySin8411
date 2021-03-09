@@ -45,7 +45,8 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&&hide=css,html&layout=compact&theme=material-palenight" />
 </a>
 
-
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=q8977452d&theme=material-palenight" />
 </a>
+-->
