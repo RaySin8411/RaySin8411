@@ -25,7 +25,7 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/q8977452)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ray-sin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
-[<img src="https://img.shields.io/github/followers/ChenTsungYu?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
+[<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
 
 **Languages and Tools:**  
 
