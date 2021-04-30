@@ -18,9 +18,14 @@ Here are some ideas to get you started:
 
 Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
-- 🌱 I’m currently learning Sanic and Flask
+- 🌱 I’m currently learning Python, JavaScript
 - 💬 Ask me about anything [here](https://github.com/q8977452/q8977452/issues)
 
+### Connect with me 📬
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/q8977452)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ray-sin/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
+[<img src="https://img.shields.io/github/followers/ChenTsungYu?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
 
 **Languages and Tools:**  
 
@@ -37,13 +42,16 @@ Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q8977452&show_icons=true&include_all_commits=true&theme=dark" alt="RaySin's github stats" />
-</a>
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q8977452&show_icons=true&include_all_commits=true&theme=dark" alt="RaySin's github stats" />
+  </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&hide=css,html&layout=compact&theme=dark" />
-</a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&hide=css,html&layout=compact&theme=dark" />
+  </a>
+</div>
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
