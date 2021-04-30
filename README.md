@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hi, I'm Ray Sin, a passionate self-taught backEnd web developer and Data Analyst from Taiwan.
+A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 - 🌱 I’m currently learning Python, JavaScript
 - 💬 Ask me about anything [here](https://github.com/q8977452/q8977452/issues)
