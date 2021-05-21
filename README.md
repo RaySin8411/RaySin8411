@@ -44,7 +44,7 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 <div>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raysin" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raysin&theme=dark" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
