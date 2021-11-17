@@ -31,15 +31,16 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 **Languages and Tools:**
 
 <a href="https://git-scm.com/" target="_blank"> <img height="30" width="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" />
+<a href="https://www.aws.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
 <a href="https://www.r-project.org/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
 <a href="https://www.python.org/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> </a>
 <a href="https://www.php.net/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
-
 <a href="https://www.postgresql.org/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <a href="https://www.mysql.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
 <a href="https://www.mongodb.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+
 
 
 
