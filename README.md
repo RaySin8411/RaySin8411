@@ -31,7 +31,7 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 **Languages and Tools:**
 
 <code><a href="https://git-scm.com/" target="_blank"> <img height="20" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" /></code>
-<code><a href="https://www.r-project.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<code><a href="https://www.r-project.org/" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><a href="https://www.r-project.org/" target="_blank"><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" /></code>
 <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> </a>
