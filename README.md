@@ -27,6 +27,9 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
 [<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
 
+<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
+
 
 **Languages and Tools:**
 
@@ -46,7 +49,6 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=monokai) 
-  <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=monokai) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=q8977452&theme=monokai&hide=jupyter%20notebook,css,scss,html) 
 
