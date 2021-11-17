@@ -27,24 +27,24 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
 [<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
 
-<!--
+
 **Languages and Tools:**  
+<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git"height="20"/> </a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="20"/> </a>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="20"/>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
--->
+
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=default) 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=q8977452&theme=default&hide=jupyter%20notebook,css,scss,html) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=dark) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=q8977452&theme=dark&hide=jupyter%20notebook,css,scss,html) 
 <!-- <div>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
