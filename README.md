@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
-- 🌱 I’m currently learning Python, JavaScript
+- 🔭 I’m currently working on EFAI
+- 🌱 I’m currently learning Python, PHP, and JavaScript
 - 💬 Ask me about anything [here](https://github.com/q8977452/q8977452/issues)
 
 ### Connect with me 📬
