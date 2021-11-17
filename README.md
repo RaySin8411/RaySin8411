@@ -41,21 +41,25 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 -->
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
-<div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=default) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=default) 
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=q8977452&theme=default&hide=jupyter%20notebook,css,scss,html) 
+<!-- <div>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=q8977452&show_icons=true&langs_count=30&hide=jupyter%20notebook,css,scss,html&layout=compact&theme=dark" />
-  </a>
+  </a> -->
   
 <!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=raysin&theme=dark" />
   </a> -->
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+<!--   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=q8977452&show_icons=true&include_all_commits=true&theme=dark" />
   </a>
   
-</div>
+</div> -->
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
