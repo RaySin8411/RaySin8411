@@ -54,5 +54,5 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 [![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=monokai)](https://github-profile-summary-cards.vercel.app)
 [![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=monokai)](https://github-profile-summary-cards.vercel.app) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=q8977452&theme=monokai&hide=jupyter%20notebook,css,scss,html)](https://github-profile-summary-cards.vercel.app)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=q8977452&theme=monokai&hide=jupyter%20notebook,css,scss,html)](https://github-profile-summary-cards.vercel.app)
 
