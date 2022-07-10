@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 - 🔭 I’m between jobs now
-- 🌱 I’m currently learning GoLang, Python, PHP, and JavaScript
+- 🌱 I’m currently learning GoLang, Python, and JavaScript
 - 💬 Ask me about anything [here](https://github.com/q8977452/q8977452/issues)
 
 ### Connect with me 📬
@@ -39,12 +39,18 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 <a href="https://www.r-project.org/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png">
 <a href="https://www.python.org/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" /> </a>
+
 <a href="https://www.php.net/" target="_blank"><img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png">
+<a href="https://laravel.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+
+#### Database
 <a href="https://www.postgresql.org/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png">
 <a href="https://www.mysql.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" /></code>
 <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png">
 <a href="https://www.mongodb.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
-<a href="https://laravel.com/" target="_blank"> <img height="30" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png">
+
+
+
 
 
 
