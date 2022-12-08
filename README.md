@@ -26,7 +26,7 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RaySin8411)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ray-sin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
-[<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RaySin8411)
+[<img src="https://img.shields.io/github/followers/RaySin8411?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RaySin8411)
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
@@ -52,7 +52,7 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 
 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=q8977452&theme=monokai)](https://github-profile-summary-cards.vercel.app)
-[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=q8977452&theme=monokai)](https://github-profile-summary-cards.vercel.app) 
-[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=q8977452&theme=monokai&hide=jupyter%20notebook,css,scss,html)](https://github-profile-summary-cards.vercel.app)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaySin8411&theme=monokai)](https://github-profile-summary-cards.vercel.app)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RaySin8411&theme=monokai)](https://github-profile-summary-cards.vercel.app) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RaySin8411&theme=monokai&hide=jupyter%20notebook,css,scss,html)](https://github-profile-summary-cards.vercel.app)
 
