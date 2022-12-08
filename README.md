@@ -20,13 +20,13 @@ A passionate self-taught backEnd web developer and Data Analyst from Taiwan.
 
 - 🔭 I’m between jobs now
 - 🌱 I’m currently learning GoLang, Python, and JavaScript
-- 💬 Ask me about anything [here](https://github.com/q8977452/q8977452/issues)
+- 💬 Ask me about anything [here](https://github.com/RaySin8411/RaySin8411/issues)
 
 ### Connect with me 📬
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/q8977452)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/RaySin8411)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ray-sin/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ray0101.sin@gmail.com)
-[<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/q8977452)
+[<img src="https://img.shields.io/github/followers/q8977452?label=follow&style=social" height="22" title="Follow me" />](https://github.com/RaySin8411)
 
 <img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
