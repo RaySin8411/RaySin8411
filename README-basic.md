@@ -1,10 +1,10 @@
 
 <!-- sample badge demo https://simpleicons.org/ -->
-
 ## Profile
 Property                 | Data  
 -------------------------|------
 Language / IDE           | [![Python Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Python&logoColor=white)](https://github.com/search?l=python&q=user%3ARaySin8411&type=Repositories) [![JavaScript Badge](https://img.shields.io/badge/-WebStorm-0094F5?style=flat&logo=JavaScript&logoColor=yekkow)](https://github.com/search?l=javascript&q=user%3ARaySin8411&type=Repositories) [![Php Badge](https://img.shields.io/badge/-PhpStorm-A100FF?style=flat&logo=Php&logoColor=yekkow)](https://github.com/search?l=php&q=user%3ARaySin8411&type=Repositories) 
+Tool / Framework         | 
 Database         | [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)](https://github.com/search?q=user%3A&RaySin8411type=Repositories) [![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)](https://github.com/search?q=user%3A&RaySin8411type=Repositories) [![PostgreSQL Badge](https://img.shields.io/badge/-postgresqlL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://github.com/search?q=user%3A&RaySin8411type=Repositories)
 Domain Knownledge        | [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3ARaySin8411&type=Repositories) [![Statistical Development Badge](https://img.shields.io/badge/-Statistics-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3ARaySin8411&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3ARaySin8411&type=Repositories) [![Web Crawling Badge](https://img.shields.io/badge/-Web%20Crawling-036CB5?style=flat&logoColor=white)](https://github.com/RaySin8411/Python-crawler) [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/RaySin8411/python_ml_practice)
 CI / CD                  | [![Github Actions Badge](https://img.shields.io/badge/-Github%20Actions-2088FF?style=flat&logo=Github-Actions&logoColor=white)](https://github.com/RaySin8411/RaySin8411)
